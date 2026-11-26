@@ -1,5 +1,3 @@
-# Ali-Abed-AI-Portfolio
-Applied AI and Robotics Portfolio – Houston Community College
 # Ali Abed | Applied AI & Robotics Portfolio
 
 ## About Me

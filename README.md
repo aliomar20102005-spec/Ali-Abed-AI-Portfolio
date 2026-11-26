@@ -38,6 +38,5 @@ in artificial intelligence, automation, and robotics.
 
 ## Contact
 
-- Email: [Add professional email]
-- LinkedIn: [Add LinkedIn profile]
+- Email: [aliomar20102005@gmail.com]
 - GitHub: [Ali Abed](https://github.com/aliomar20102005-spec)

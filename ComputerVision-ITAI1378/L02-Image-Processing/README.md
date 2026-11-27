@@ -96,3 +96,19 @@ main demonstrations.
 This project was completed as part of the ITAI 1378
 Computer Vision laboratory coursework at Houston
 Community College.
+## Results and Visualizations
+
+### Brightness and Contrast
+![Brightness and Contrast](results/brightness_contrast.png)
+
+### Convolution Filters
+![Convolution Filters](results/convolution_filters.png)
+
+### Geometric Transformations
+![Geometric Transformations](results/geometric_transformations.png)
+
+### Histogram Equalization
+![Histogram Equalization](results/histogram_equalization.png)
+
+### Image Processing Summary
+![Image Processing Summary](results/image_processing_summary.png)
